@@ -27,7 +27,7 @@
 }
 
 body {
-    background: linear-gradient(rgba(26, 22, 18, 0.88), rgba(26, 22, 18, 0.88)), url('../money.webp');
+    background: linear-gradient(rgba(26, 22, 18, 0.88), rgba(26, 22, 18, 0.88)), url('money.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
